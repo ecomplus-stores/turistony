@@ -1,7 +1,7 @@
 {
   "marketing_stripe": {
     "text": "Para pagamentos via PIX, nos chame através do whatsapp (79)988656978  ",
-    "link": "/promotion"
+    "link": "https://api.whatsapp.com/send/?phone=5579988656978&text&type=phone_number&app_absent=0"
   },
   "contacts_stripe": {
     "pages": [
