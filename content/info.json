@@ -8,11 +8,11 @@
     "text": "Aceitamos todos os cartões"
   },
   "exchange": {
-    "show": false,
+    "show": true,
     "text": "Não gostou? A primeira troca é gratuita"
   },
   "promo": {
-    "show": false,
+    "show": true,
     "text": "",
     "title": "Diferentes Promoções ao longo do ano!"
   }
