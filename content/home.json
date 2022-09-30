@@ -25,10 +25,10 @@
       "type": "collection-shelf",
       "shuffle": false,
       "collection_id": "6102a58a33f3ce442f7dc671:categories:Concursos:/concursos",
-      "sort": "news",
+      "sort": "views",
       "title": "",
       "headless": false,
-      "limit": 9,
+      "limit": 12,
       "page": 1
     },
     {
