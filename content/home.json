@@ -24,8 +24,8 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "collection_id": "6102a58a33f3ce442f7dc671:categories:Concursos:/concursos",
-      "sort": "views",
+      "collection_id": null,
+      "sort": null,
       "title": "",
       "headless": false,
       "limit": 12,
