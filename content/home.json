@@ -35,6 +35,11 @@
       "type": "page-title",
       "title": "Turistony",
       "description": "Deixando você mais próximo dos seus sonhos."
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "sales"
     }
   ]
 }
