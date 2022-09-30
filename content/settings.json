@@ -4,7 +4,7 @@
   "primary_color": "#00207d",
   "theme": {
     "bootswatch": "_",
-    "custom": "_"
+    "custom": "niche-game"
   },
   "bg_color": "#ffffff",
   "logo": "/img/uploads/logototal.png",
@@ -17,7 +17,7 @@
   "favicon": "/img/uploads/seta1.png",
   "icons_font": "font-awesome",
   "country_code": "BR",
-  "secondary_color": "#000000",
+  "secondary_color": "#07008b",
   "icon": "/img/uploads/seta1.png",
   "store_id": 4516,
   "description": "Turistony",
