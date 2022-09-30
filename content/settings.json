@@ -1,7 +1,7 @@
 {
   "domain": "turistony.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#00207d",
+  "primary_color": "#063489",
   "theme": {
     "bootswatch": "_",
     "custom": "niche-game"
@@ -17,7 +17,7 @@
   "favicon": "/img/uploads/seta1.png",
   "icons_font": "font-awesome",
   "country_code": "BR",
-  "secondary_color": "#07008b",
+  "secondary_color": "#063489",
   "icon": "/img/uploads/seta1.png",
   "store_id": 4516,
   "description": "Turistony",
