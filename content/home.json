@@ -22,24 +22,14 @@
       "enabled": false
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "collection_id": "6102a5aa33f3ce442f7dc6ab:categories:Excursões:/excursoes",
-      "sort": "views",
-      "title": "",
-      "headless": false,
-      "limit": 11,
-      "page": 1
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "sales"
     },
     {
       "type": "page-title",
       "title": "Turistony",
       "description": "Deixando você mais próximo dos seus sonhos."
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "sales"
     }
   ]
 }
