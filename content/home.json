@@ -4,7 +4,7 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 9000,
+      "autoplay": 4000,
       "full_width": false,
       "slides": [
         {
@@ -18,9 +18,9 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner2.webp",
+          "img": "/img/uploads/design-sem-nome-1-.jpg",
           "alt": "Banner sample two",
-          "mobile_img": "/img/uploads/passion.webp"
+          "mobile_img": ""
         }
       ]
     },
