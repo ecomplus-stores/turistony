@@ -9,7 +9,7 @@
   "bg_color": "#ffffff",
   "logo": "/img/uploads/sem-titulo.png",
   "name": "Turistony",
-  "short_name": "turistony",
+  "short_name": "Turistony",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
@@ -20,6 +20,6 @@
   "secondary_color": "#393e46",
   "icon": "/img/uploads/sem-titulo.png",
   "store_id": 4516,
-  "description": "turistony",
+  "description": "Turistony",
   "large_icon": "/img/large-icon.png"
 }
