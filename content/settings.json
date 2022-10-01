@@ -1,5 +1,6 @@
 {
   "domain": "www.turistony.com.br",
+  "repository": "ecomplus-stores/turistony",
   "currency_symbol": "R$",
   "primary_color": "#063489",
   "theme": {
