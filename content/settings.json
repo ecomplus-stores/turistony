@@ -1,6 +1,5 @@
 {
   "domain": "www.turistony.com.br",
-  "repository": "ecomplus-stores/turistony",
   "currency_symbol": "R$",
   "primary_color": "#063489",
   "theme": {
@@ -8,6 +7,7 @@
     "custom": "niche-game"
   },
   "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/turistony",
   "logo": "/img/uploads/logototal.png",
   "name": "Turistony",
   "short_name": "Turistony",
@@ -19,7 +19,7 @@
   "icons_font": "_",
   "country_code": "BR",
   "secondary_color": "#063489",
-  "icon": "/img/uploads/seta1.png",
+  "icon": "/img/uploads/seta2.png",
   "store_id": 4516,
   "description": "Agência de viagens",
   "large_icon": "/img/uploads/seta1.png"
