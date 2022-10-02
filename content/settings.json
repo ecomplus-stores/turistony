@@ -6,7 +6,7 @@
     "bootswatch": "_",
     "custom": "niche-game"
   },
-  "bg_color": "#ffffff",
+  "bg_color": "#063489",
   "repository": "ecomplus-stores/turistony",
   "logo": "/img/uploads/logototal.png",
   "name": "Turistony",
@@ -22,5 +22,5 @@
   "icon": "/img/uploads/seta42.jpg",
   "store_id": 4516,
   "description": "Agência de viagens",
-  "large_icon": "/img/uploads/seta1.png"
+  "large_icon": "/img/uploads/whatsapp-image-2021-10-19-at-12.png"
 }
