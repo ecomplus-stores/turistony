@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.5405c6608c884da6179058db8c3b44c3.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.4912a003c9085c57df6be0626eae7866.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.6f25170b8254fc6aec07a2913cfe42f7.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.f91db8b64a249a5fb8bce700efd84301.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.b75a0dbf1ac3d92af49d78a23cc620c8.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "Turistony",
+  "short_name": "Turistony",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Agência de viagens",
+  "background_color": "#063489",
+  "theme_color": "#063489"
+}
